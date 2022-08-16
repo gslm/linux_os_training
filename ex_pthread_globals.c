@@ -1,3 +1,5 @@
+/*from https://www.geeksforgeeks.org/multithreading-c-2/*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
